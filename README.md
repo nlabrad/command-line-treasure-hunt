@@ -7,6 +7,8 @@
 
 ``pwd`` to find out where you currently are
 
+``touch`` to print a file to the terminal
+
 ``cat`` to print a file to the terminal
 
 Ready to get started? Open a terminal and let's go!
